@@ -24,6 +24,7 @@ h1{
 
  .todo {
     width: 70vw;
+    /* height: 20vh; */
     margin: auto;
     margin-top: 10px;
     background-color: rgb(89, 25, 152);
