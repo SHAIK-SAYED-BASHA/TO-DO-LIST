@@ -87,7 +87,7 @@ button{
     background-color: #c9e4e7;
     font-weight: 600;
 }
-@media only screen and (max-width: 412px){
+@media only screen and (max-width: 414px) {
     body{
         background-color: #161146;
     }
