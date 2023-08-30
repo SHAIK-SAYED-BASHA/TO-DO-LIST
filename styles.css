@@ -86,3 +86,35 @@ button{
     background-color: #c9e4e7;
     font-weight: 600;
 }
+@media only screen and (max-width: 412px){
+    body{
+        background-color: #161146;
+    }
+    .container{
+        width: 80vw;
+        margin: auto;
+        border-radius: 2px;
+    }
+    input {
+        width: 70vw;
+        margin: auto;
+        font-size: larger;
+        font-weight: 700;
+        padding: 5px;
+        border-radius: 10px;
+    }
+    .todo{
+        height:7vh;
+    }
+    .addtasks {
+        width: 70vw;
+        padding: 8px;
+        margin-top: 10px;
+        font-weight: 500;
+        background-color: #2b053c;
+        color: #bcfeff;
+        border: none;
+        border-radius: 16px;
+        cursor: pointer;
+    }
+}
